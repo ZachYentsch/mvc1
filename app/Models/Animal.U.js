@@ -1,0 +1,1 @@
+new Animal('Urchin', 'red', '1lbs', '4 inches', 'none', 'prey', 'omnivores', URL('https://th.bing.com/th/id/R.d662983af9e3f110eee5cb47cb662487?rik=QBe49VhiQl0L8g&riu=http%3a%2f%2featsomethingsexy.com%2fwp-content%2fuploads%2f2010%2f10%2fseaurchin.jpg&ehk=wCf5OngAFut7T0NLs4ntcvQJvcCMEmTw6RtHxod%2f4pQ%3d&risl=&pid=ImgRaw&r=0'))

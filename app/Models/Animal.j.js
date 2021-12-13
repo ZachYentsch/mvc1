@@ -1,0 +1,1 @@
+new Animal('Jellyfish', 'translucid', '< 1lb', '', '6 inches', 'predator', 'carnivore', URL('https://th.bing.com/th/id/R.c08fac845ce12cf94de13d11a4c7e839?rik=Zg8AmlX22Md6eQ&riu=http%3a%2f%2fcdn.sci-news.com%2fimages%2fenlarge%2fimage_2918_1e-Moon-Jellyfish.jpg&ehk=VokgOCYkgJ4Rsv%2bwW9r1Acd9GjMvhy5AwA5bv3o9iZI%3d&risl=&pid=ImgRaw&r=0'))

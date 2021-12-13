@@ -1,0 +1,1 @@
+new Animal('Impala', 'brown', '80-160 lbs', '3 ft', '', 'prey', 'herbivore', URL('https://th.bing.com/th/id/R.c7097b097d05c28ec9c79f27da74ca29?rik=QTvTaPIEWgfGmg&riu=http%3a%2f%2f3.bp.blogspot.com%2f-1TbSQ9k1xY0%2fURTUXLJOuEI%2fAAAAAAAACT4%2fI2huXa5wUTU%2fs1600%2fImpala%2bAfrica.jpg&ehk=mjkOi7ei%2beet1rvsteoVxH2x94G%2f9mbuqwsTvWFDuF0%3d&risl=&pid=ImgRaw&r=0'))

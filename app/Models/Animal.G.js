@@ -1,0 +1,1 @@
+new Animal('Gorilla', 'black', '300-500 lbs', '4-5 ft', '32 teeth', 'prey', 'herbivore', URL('https://www.washingtonpost.com/resizer/d83oIU-_QhmwMF_eNBQumUb-R6c=/1484x0/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EOOYRHEKQY43HMAO2PLSYUVUTE.jpg'))

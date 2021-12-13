@@ -1,0 +1,1 @@
+new Animal('Ram', 'brown', '300 lbs', '5-6 ft', 'none', 'prey', 'herbivores', URL('https://th.bing.com/th/id/R.e06250c31bbe38f123e92d99c1529784?rik=eIw7aGMxM1CqTQ&riu=http%3a%2f%2fjustfunfacts.com%2fwp-content%2fuploads%2f2017%2f02%2fbighorn-sheep-2.jpg&ehk=gCYwUj6NBsU%2fBUXGNYU4oj4LhhzGlDp%2fL3EfHfBP520%3d&risl=&pid=ImgRaw&r=0'))

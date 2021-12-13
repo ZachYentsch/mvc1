@@ -1,0 +1,1 @@
+new Animal('Hyena', 'brown/spotted', '2-3 ft', '150 lbs', '32 teeth', 'predator', 'carnivore', URL('https://th.bing.com/th/id/R.2341485cff06f4f4bb775a96f566a157?rik=1lMVuKw1rhJmAA&riu=http%3a%2f%2fwww.pbs.org%2fwnet%2fnature%2ffiles%2f2014%2f10%2fHyena-Main.jpg&ehk=PA3AnnnnJR9hUsV%2br4wJX6%2bdEqu%2btS1bJV2%2fLJhGSiI%3d&risl=&pid=ImgRaw&r=0'))

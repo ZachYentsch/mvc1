@@ -1,0 +1,1 @@
+new Animal('Anteater', 'brown', '140 lbs', '4-7ft', 'None', 'prey', 'insectivore', URL('https://th.bing.com/th/id/R.cb9949c8a5f53ea734b81e8d896e1bda?rik=57zk87ptIImqsg&riu=http%3a%2f%2fanswersafrica.com%2fwp-content%2fuploads%2f2013%2f06%2fAnteaters.jpg&ehk=%2fIs7xKHLBT9FLIo%2b2abo7Rl0N4PG34Ps9yroJTO0Xqc%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1'))

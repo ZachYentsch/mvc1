@@ -1,0 +1,1 @@
+new Animal('Vulture', 'brown', '5 lbs', '5 ft', 'beak', 'predator', 'carnivore', URL('https://th.bing.com/th/id/R.333edc71e15d34b0b43f4c0804cf3770?rik=BT9U8pA5p6wl7Q&riu=http%3a%2f%2f1.bp.blogspot.com%2f-xNkz8aUEf7o%2fUQjzKl3dmNI%2fAAAAAAAACME%2fm0Vp6rz6ZHg%2fs1600%2fGriffon%2bVulture%2bAfrica.jpg&ehk=v8w2Ia9t7XjAP62qcZVRwNWO3XsoNICoqw5%2fP64LVvE%3d&risl=&pid=ImgRaw&r=0'))

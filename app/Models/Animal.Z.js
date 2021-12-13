@@ -1,0 +1,1 @@
+new Animal('Zebra', 'white-black', '800 lbs', '5 ft', '', 'prey', 'herbivore', URL('https://th.bing.com/th/id/OIP.wL8vCJvf9cULA26nbSUN9QHaE8?pid=ImgDet&rs=1'))
