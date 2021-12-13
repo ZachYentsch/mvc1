@@ -1,4 +1,4 @@
-import { AnimalsController } from "./Controller/Animals.Controller.js"
+import { AnimalsController } from "./app/Controller/Animals.Controller.js"
 
 
 const animalController = new AnimalsController()
