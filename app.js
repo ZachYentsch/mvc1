@@ -1,4 +1,4 @@
-export class Animals {
+export default class Animals {
 
     constructor(name, weight, height, teeth, apex, diet, img) {
         this.name = name;
@@ -11,7 +11,8 @@ export class Animals {
         this.img = img;
     }
     printItem() {
-        return `<li onclick="Controller.order('${this.name}')">${this.name}${this.img}: ${this.apex} (${this.diet})</li>`
+        console.log('YEs')
+        // return `<li onclick="Controller.order('${this.name}')">${this.name}${this.img}: ${this.apex} (${this.diet})</li>`
     }
 }
 
