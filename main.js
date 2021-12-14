@@ -5,3 +5,5 @@ const animalController = new AnimalsController()
 
 
 window['animalController'] = animalController
+
+// REVIEW
